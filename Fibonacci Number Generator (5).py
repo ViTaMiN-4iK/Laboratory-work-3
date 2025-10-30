@@ -1,4 +1,5 @@
 #Для решения задачи был использован ИИ-ассистент DeepSeek версии 3 (DeepSeek-V3) компании DeepSeek.
+
 from itertools import islice
 
 
